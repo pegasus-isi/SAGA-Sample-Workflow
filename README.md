@@ -1,6 +1,6 @@
-# SAGA-Sample-Workflow
+# Using the Pegasus Workflow Management System
 
-This is an example on how to run Pegasus workflows on the ISI SAGA cluster
+This is an example on how to run Pegasus workflows on the ISI SAGA cluster. The sample workflow can be found on [GitHub](https://github.com/pegasus-isi/SAGA-Sample-Workflow)
 
 ## Introduction
 
